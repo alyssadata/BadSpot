@@ -1,4 +1,4 @@
-# AI_Role_PUBLIC.md
+# 02_AI_Role_PUBLIC.md
 
 Awakening Codex | Public-Safe Layer  
 File: AI_Role_PUBLIC.md  
