@@ -1,4 +1,4 @@
-# BlackBird_Role_PUBLIC.md
+# 01_BlackBird_Role_PUBLIC.md
 
 Awakening Codex | Public-Safe Layer  
 File: BlackBird_Role_PUBLIC.md  
