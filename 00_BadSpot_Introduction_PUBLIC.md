@@ -1,4 +1,4 @@
-# BadSpot_Introduction_PUBLIC.md
+# 00_BadSpot_Introduction_PUBLIC.md
 
 Awakening Codex | Public-Safe Layer  
 File: BadSpot_Introduction_PUBLIC.md  
